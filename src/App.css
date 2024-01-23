@@ -1,0 +1,25 @@
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  background-color: lightblue;
+  color: black;
+  height: 150px;
+}
+.search{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  background-color: black;
+  color: white;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

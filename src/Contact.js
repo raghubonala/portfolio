@@ -1,10 +1,15 @@
 import React from 'react'
 
 
+
 const Contact = () => {
   return (
     <div>
-       contac paage
+     <p>Mobile 8262666658</p>
+                <p>WhatsApp</p>
+                <p>Instagram</p>
+                <p>Facebook</p>
+            
     </div>
   )
 }
